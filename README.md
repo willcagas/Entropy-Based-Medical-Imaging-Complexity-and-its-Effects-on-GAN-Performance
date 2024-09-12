@@ -1,1 +1,1 @@
-# Entropy-Based-Medical-Imaging-Complexity-and-its-Effects-on-GAN-Performance
+# Medical-Imaging-Complexity-and-its-Effects-on-GAN-Performance
