@@ -12,6 +12,8 @@ This is the supplementary material for the [*Medical Imaging Complexity and its 
 - [References](#references)
 - [Acknowledgements](#acknowledgments)
 - [Licenses](#licenses)
+- [Citation](#citation)
+
 
 ## Installation
 
@@ -97,6 +99,7 @@ This project contains code based on several open-source repositories, each under
 3. **TorchXRayVision** is licensed under the [MIT License](https://github.com/mlmed/torchxrayvision/blob/master/LICENSE).
 
 ## Citation
+
 ```
 @misc{cagas2024medicalimagingcomplexityeffects,
    title={Medical Imaging Complexity and its Effects on GAN Performance}, 
