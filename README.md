@@ -1,6 +1,6 @@
 # Synthetic Medical Image Generation
 
-This is the supplementary material for the [*Medical Imaging Complexity and its Effects on GAN Performance*](https://arxiv.org/abs/arXiv:2410.17959) paper. The code is based on different approaches, including **SPADE-GAN**, **StyleGAN 3**, and utilizes **TorchXRayVision**.
+This is the code and supplementary material for the [*Medical Imaging Complexity and its Effects on GAN Performance*](https://arxiv.org/abs/arXiv:2410.17959) paper. The code is based on different approaches, including **SPADE-GAN**, **StyleGAN 3**, and utilizes **TorchXRayVision**.
 
 
 ## Table of Contents
