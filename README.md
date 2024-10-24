@@ -95,3 +95,16 @@ This project contains code based on several open-source repositories, each under
 2. **StyleGAN3** by NVIDIA NVlabs is licensed under the [CC BY-NC 4.0 License](https://github.com/NVlabs/stylegan3/blob/main/LICENSE.txt). T
    
 3. **TorchXRayVision** is licensed under the [MIT License](https://github.com/mlmed/torchxrayvision/blob/master/LICENSE).
+
+## Citation
+```
+@misc{cagas2024medicalimagingcomplexityeffects,
+   title={Medical Imaging Complexity and its Effects on GAN Performance}, 
+   author={William Cagas and Chan Ko and Blake Hsiao and Shryuk Grandhi and Rishi Bhattacharya and Kevin Zhu and Michael Lam},
+   year={2024},
+   eprint={2410.17959},
+   archivePrefix={arXiv},
+   primaryClass={eess.IV},
+   url={https://arxiv.org/abs/2410.17959}, 
+}
+```
